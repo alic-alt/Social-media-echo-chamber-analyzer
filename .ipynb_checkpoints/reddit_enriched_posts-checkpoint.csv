@@ -1,0 +1,90 @@
+text,engagement,line_count,language,tags,tone
+"My  years worth  thousands of comments Considering deleting my account wanted to know if its possible to back everything up I have some good stuff I wanted to save and some good comments from others 
+
+For perspective I havent programmed a whole lot but I know my way around a computer enough to get in trouble  just wanted to know if theres any extra software I need to be able to run this script then really think long and hard about where I spend my time these days
+
+Thanks for your help my dude",1,5,en,#General,Respectful
+Late to the party but like everyone else said so far Monte Carlo is going to give you a better probability distribution of conditional win  lose than attempting to build a model to do the same using a dataset of actual games outcomes hands dealt are random However if youre instead perhaps supplementing probability of a particular hand winning trying to model the likelihood of an opposing players actions fold hold bet then such a dataset might be useful but will be highly dependent on the risk appetite of the individual players in the data and the resulting model will probably be specific to those players if its data from professional players then you can probably generalize it for a model that has consistent performance across games with different players but would want to test between professional and nonprofessional to see if behavior is significantly different,2,1,en,#AI,Formal
+The problem is most of the aggregated data isnt valid for that purpose Places like QPublic or ParcelQuest are pretty explicit about disallowing you from redistributing or selling the data,1,1,en,#General,Optimistic
+Yahoo and Google are pretty solid Other options here,2,1,en,#General,Casual
+following,2,1,en,#General,Casual
+I had a similar project We collected celebrity heights and weights and ran each celebrity name through a google image scraper along with search terms like red carpet Then we filtered them with pose detection to ensure all limbs were visible Of course the clothing can be a bit skewed if you only search for red carpet but you get the idea We also ran measures scraped and pixel measurements from the photos with the ANSUR II dataset to guesstimate other anthropometrical measurements with varying levels of success Edit this sort of thing is useful for pixel measurement btw,2,1,en,#General,Formal
+Ha this would actually be for research to prove that trading bots dont work well,0,1,en,#Career,Casual
+Try this,1,1,en,#General,Casual
+Hey OP awesome work We need more people like you who help structure all the information out there,3,1,en,#Career,Optimistic
+Hey ujokertrickington come hang out with us this weekend and well make you a dataset,1,1,en,#General,Casual
+Take a look at  for timeseries API based on ERA reanalysis data or you can go download the files from,1,1,en,#General,Casual
+deleted,1,1,da,#General,Casual
+Nope,1,1,en,#General,Casual
+"My first option would be Yahoo Finance Its free and you can do a lot with it especially if you know Python If you want a paid option which you should opt for if you are backtesting or building a model there are many commercial data providers out there with affordable and quality datasets
+
+All the best",1,3,en,#AI,Optimistic
+Yeah there was one released Nov,7,1,en,#General,Casual
+You can try cooking with an example model GPTsmall here,3,1,en,#General,Casual
+Give me  good data scientists and we can find the holy grail of karma,47,1,en,#AI,Optimistic
+Do you know where I could atleast get a sample of that data to start working with Maybe yours if thats allowed,2,1,en,#Career,Formal
+Instant favorite page thank you,2,1,en,#General,Respectful
+Keepa,3,1,id,#General,Casual
+Wouldnt Wikipedia do,1,1,id,#General,Casual
+Will I still run into rate limiting issues with this package,2,1,en,#General,Casual
+"Just downloaded For those curious
+
+File GB ZIP uncompressed size is GB
+
+Contents single CSV file GB No column headers Data appears to be links to thumbnails video titles tags category and some unlabeled numbers probably duration and some other numerical data",26,5,en,#AI,Formal
+Not rude at all Thank you,1,1,en,#General,Respectful
+Cool thanks,1,1,en,#General,Respectful
+"Hey FancyStatistician
+
+I believe a request flair might be more appropriate for such post Please reconsider and change the post flair if needed
+
+
+I am a bot and this action was performed automatically Please contact the moderators of this subredditmessagecomposetordatasets if you have any questions or concerns",1,6,en,#AI,Respectful
+Teachers often dont run on curricula and when they do it can change from year to year Theres also no guarantee that the curricula is actually used when the school does adopt it I would not consider any data on this to be meaningful,1,1,en,#General,Formal
+"im honestly wondering if the school districts lack of competence is related to this strange test that measures mastery but is the same for different grade levels either that or im completely misunderstanding your description of the test
+
+sorry to carry this on for so long i was genuinely curious about your research question and the details of the test my job is literally data analysis at an education company and i can get nerdy about it  good luck finding the data you need",1,3,en,"#AI, #Career",Formal
+Which you are now sharing to the world in the spirit of open source love,1,1,en,#General,Casual
+Neat,1,1,en,#General,Casual
+No This is for a project at uni,1,1,en,#General,Casual
+Thanks Indeed right after I posted this I thought of wiktionary Thanks for confirming my thoughts,1,1,en,#General,Respectful
+Do you get different samples from each IP I thought the sample stream was the same for everyone listening,2,1,en,#General,Casual
+Australian government has something similar to ONET,1,1,en,#Politics,Casual
+"Yes I fully understand the issues with building a Twitter collection to the point where I spent several months creating a large collection of Twitter data I published about it recently at ACM CIKM 
+
+The API does not only give you access to a couple of weeks of data if you are willing to wait for it The streaming API gives you access to  of Tweets posted in a real time or  if you have been granted elevated access 
+
+You are correct that Twitter are not going to go after those downloading it they are going to go after those who created and distributed it That is why most datasets require that an agreement is signed before they will even grant access to Tweet IDs  The fact is the people who create these datasets and who have access to them have agreed not to distribute them and as they are mostly big businesses or academic institutes they are not going to break ethical guidelines and risk their job so that someone else can cut some corners to get Twitter data
+
+What exactly do you want the dataset for Youre not going to find months worth of Twitter data for download anywhere its simply a huge volume of data event if its only a  sample If you are at a University make a request around your computer science department it is likely that someone there has been downloading Twitter data",1,7,en,"#AI, #Career",Formal
+Wow thats amazing Thanks,1,1,en,#General,Optimistic
+deleted,3,1,da,#General,Casual
+Well why not the Census factfindercom is the place to view everything but censusreporterorg is a friendly alternative,1,1,en,#General,Optimistic
+Unlikey that such dataset exists For any sentence compute bert vector and then compare it to BERT vectors of all sentences in the known set For sentences within some distance try to find most common sentence structure and suggest accordingly Ofcourse easier said than done,1,1,en,#AI,Formal
+U could try googling it like a normal person If that doesnt work then I would say just abandon the internet all together Its slowing u down,0,1,en,#Career,Formal
+removed,1,1,sk,#General,Casual
+Thank you for your answer  Im more interested in the finer resolution ones because its not for my personal use but for a company Im doing an internship at so they def can afford it,1,1,en,#General,Respectful
+Anonymized,1,1,pl,#General,Casual
+,1,1,unknown,#General,Casual
+wut,4,1,so,#General,Casual
+deleted,3,1,da,#General,Casual
+yeah it does,-6,1,id,#General,Casual
+Edit link above,1,1,en,#General,Casual
+"Yeah I mentioned that in the proposal the very basic issue of analysing games or any entertainment media is that you can almost argue that each product can have a different consumer base The data set I am looking at has like k complete observations  but I was thinking of stratifying them by genre I do have the luxury of time since this is the only thing Ill be focusing on for a few months I already wanted to add to the data set so what you suggested really helps give it a little more direction Ill look into more grouping measures too 
+
+Thanks a lot for your help I feel a bit more confident now",1,3,en,#AI,Respectful
+LinkedIn for grad program and role  Glassdoor for salary estimates Would be a tremendous pain in the ass,1,1,en,#AI,Optimistic
+IIRC a British study claimed that the majority of Internet memes originate from chan and believe it or not thedonald,2,1,en,#AI,Casual
+deleted,1,1,da,#General,Casual
+Will they always be in the same image,9,1,en,#General,Casual
+Prices of,1,1,en,#General,Casual
+deleted,1,1,da,#General,Casual
+"This is really cool Thanks so much for it I did something very similar with the NPR API load data from website in json parse the json file and print to CSV My python script is not nearly as refined as yours  but you can find it here if youre interested just skip past the graphs 
+
+Thanks again for the datasetcode Im poring through it and learning a lot",1,3,en,#AI,Respectful
+"Oh  I thought you are doing a School project and You need these fields in records
+
+However  I cant help  So about this",1,3,en,#General,Formal
+Note sure why But heres something,5,1,en,#General,Optimistic
+My work is having a pumpkin weight guessing contest so if you get a good correlation between weight and circumference or height please post back here  I would love to try to game the system,2,1,en,#Career,Respectful
+I am not sure I think there might be copyright issues They are not googles mages just ones it has found on the web,2,1,en,#General,Formal
