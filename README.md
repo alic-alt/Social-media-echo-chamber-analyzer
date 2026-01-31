@@ -39,9 +39,6 @@ This project analyzes Reddit posts to detect **echo chamber effects** in online 
 - Visualized echo chamber structures using PCA scatter plots  
 - Observed differences in engagement and tone across clusters  
 
-Example cluster plot:
-
-![Echo Chamber Clustering](images/echo_chamber_clusters.png)
 
 ---
 
